@@ -1,4 +1,8 @@
 # JS_Learning-
+2 goals of this repo are
+- learning the most effective way to learn (document it and make changes till optimised)
+- learning JS ASAP but without reducing the understanding of it.
+- Goal/Project based learning(Learn by doing)
 This Repo contains the code I did while learning JavaScript
 
 official documentation 
